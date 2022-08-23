@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="52e90bf9-9c5f-4eac-9cdb-5c61cd7e20ad" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\Maven-Repository" />
+        <option name="mavenHome" value="$PROJECT_DIR$/../../Maven/apache-maven-3.5.2" />
+        <option name="userSettingsFile" value="D:\Maven\apache-maven-3.5.2\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2DhFHiGKMLqabKkwJZDa6RPEFOU" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+    <option name="showVisibilityIcons" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="mybatisx.settings" />
+  </component>
+  <component name="RunManager" selected="JUnit.MybatisPlusWrapperTest.test9">
+    <configuration name="MybatisPlusWrapperTest.test5" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="mybatisplus" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.singularity.mybatisplus.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.singularity.mybatisplus" />
+      <option name="MAIN_CLASS_NAME" value="com.singularity.mybatisplus.MybatisPlusWrapperTest" />
+      <option name="METHOD_NAME" value="test5" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MybatisPlusWrapperTest.test6" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="mybatisplus" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.singularity.mybatisplus.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.singularity.mybatisplus" />
+      <option name="MAIN_CLASS_NAME" value="com.singularity.mybatisplus.MybatisPlusWrapperTest" />
+      <option name="METHOD_NAME" value="test6" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MybatisPlusWrapperTest.test7" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="mybatisplus" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.singularity.mybatisplus.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.singularity.mybatisplus" />
+      <option name="MAIN_CLASS_NAME" value="com.singularity.mybatisplus.MybatisPlusWrapperTest" />
+      <option name="METHOD_NAME" value="test7" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MybatisPlusWrapperTest.test8" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="mybatisplus" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.singularity.mybatisplus.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.singularity.mybatisplus" />
+      <option name="MAIN_CLASS_NAME" value="com.singularity.mybatisplus.MybatisPlusWrapperTest" />
+      <option name="METHOD_NAME" value="test8" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MybatisPlusWrapperTest.test9" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="mybatisplus" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.singularity.mybatisplus.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.singularity.mybatisplus" />
+      <option name="MAIN_CLASS_NAME" value="com.singularity.mybatisplus.MybatisPlusWrapperTest" />
+      <option name="METHOD_NAME" value="test9" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MybatisplusApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="mybatisplus" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.singularity.mybatisplus.MybatisplusApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.MybatisPlusWrapperTest.test9" />
+        <item itemvalue="JUnit.MybatisPlusWrapperTest.test8" />
+        <item itemvalue="JUnit.MybatisPlusWrapperTest.test7" />
+        <item itemvalue="JUnit.MybatisPlusWrapperTest.test6" />
+        <item itemvalue="JUnit.MybatisPlusWrapperTest.test5" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\10078\AppData\Roaming\Subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="52e90bf9-9c5f-4eac-9cdb-5c61cd7e20ad" name="Default Changelist" comment="" />
+      <created>1661143323132</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1661143323132</updated>
+      <workItem from="1661143325585" duration="79000" />
+      <workItem from="1661143419908" duration="21554000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="121" y="0" key="#Project_Structure" timestamp="1661159024202">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state x="121" y="0" key="#Project_Structure/0.0.1280.760@0.0.1280.760" timestamp="1661159024202" />
+    <state x="133" y="79" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1661225423875">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state x="133" y="79" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.760@0.0.1280.760" timestamp="1661225423875" />
+    <state width="1238" height="356" key="GridCell.Tab.0.bottom" timestamp="1661225085229">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state width="1238" height="356" key="GridCell.Tab.0.bottom/0.0.1280.760@0.0.1280.760" timestamp="1661225085229" />
+    <state width="1238" height="356" key="GridCell.Tab.0.center" timestamp="1661225085228">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state width="1238" height="356" key="GridCell.Tab.0.center/0.0.1280.760@0.0.1280.760" timestamp="1661225085228" />
+    <state width="1238" height="356" key="GridCell.Tab.0.left" timestamp="1661225085228">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state width="1238" height="356" key="GridCell.Tab.0.left/0.0.1280.760@0.0.1280.760" timestamp="1661225085228" />
+    <state width="1238" height="356" key="GridCell.Tab.0.right" timestamp="1661225085228">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state width="1238" height="356" key="GridCell.Tab.0.right/0.0.1280.760@0.0.1280.760" timestamp="1661225085228" />
+    <state width="1238" height="313" key="GridCell.Tab.1.bottom" timestamp="1661156570567">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state width="1238" height="313" key="GridCell.Tab.1.bottom/0.0.1280.760@0.0.1280.760" timestamp="1661156570567" />
+    <state width="1238" height="313" key="GridCell.Tab.1.center" timestamp="1661156570567">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state width="1238" height="313" key="GridCell.Tab.1.center/0.0.1280.760@0.0.1280.760" timestamp="1661156570567" />
+    <state width="1238" height="313" key="GridCell.Tab.1.left" timestamp="1661156570567">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state width="1238" height="313" key="GridCell.Tab.1.left/0.0.1280.760@0.0.1280.760" timestamp="1661156570567" />
+    <state width="1238" height="313" key="GridCell.Tab.1.right" timestamp="1661156570567">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state width="1238" height="313" key="GridCell.Tab.1.right/0.0.1280.760@0.0.1280.760" timestamp="1661156570567" />
+    <state x="135" y="24" key="SettingsEditor" timestamp="1661225083443">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state x="135" y="24" key="SettingsEditor/0.0.1280.760@0.0.1280.760" timestamp="1661225083443" />
+    <state x="306" y="85" width="672" height="678" key="search.everywhere.popup" timestamp="1661155720395">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state x="306" y="85" width="672" height="678" key="search.everywhere.popup/0.0.1280.760@0.0.1280.760" timestamp="1661155720395" />
+  </component>
+</project>

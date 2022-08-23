@@ -1,0 +1,42 @@
+spring:
+  #����������ϢԴ
+  datasource:
+    dynamic:
+      #����Ĭ�ϵ�����Դ��������Դ��,Ĭ��Ϊmaster
+      primary: master
+      #�ϸ�ƥ������Դ,Ĭ��Ϊfalse,trueΪƥ�䵽ָ��������Դʱ�׳��쳣,falseʹ��Ĭ������Դ
+      strict: false
+      datasource:
+        master:
+          #�������ݿ��������Ϣ
+          driver-class-name: com.mysql.cj.jdbc.Driver
+          url: jdbc:mysql://47.113.202.72:3306/mybatis_plus?serverTimezone=UTC&characterEncoding=utf-8&useSSL=false
+          username: root
+          password: 123456
+        slave_1:
+          #�������ݿ��������Ϣ
+          driver-class-name: com.mysql.cj.jdbc.Driver
+          url: jdbc:mysql://47.113.202.72:3306/janice?serverTimezone=UTC&characterEncoding=utf-8&useSSL=false
+          username: root
+          password: 123456
+
+    #��������Դ����
+    #type: com.zaxxer.hikari.HikariDataSource
+
+
+#����mybatis plus����־
+mybatis-plus:
+  configuration:
+    log-impl: org.apache.ibatis.logging.stdout.StdOutImpl
+
+  #����mybatis-plus��ȫ������
+  global-config:
+    db-config:
+      #����ʵ��������Ӧ���ǰ׺
+      table-prefix: t_
+      #����ͳһ���������ɲ���
+      id-type: auto
+  #�������ͱ���
+  type-aliases-package: com.singularity.mybatisplus.pojo
+  #ɨ��ͨ��ö�ٵİ�
+  type-enums-package: com.singularity.mybatisplus.enums
